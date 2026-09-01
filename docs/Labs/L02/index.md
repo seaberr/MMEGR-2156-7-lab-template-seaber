@@ -29,7 +29,7 @@ I used Prusa slicer to process my stl file for it to 3d print. I chose this beca
 ## THE PRINT
 I printed with Nathan Zimmermann and Eshan Thanker. The process was easy. This was on the core One Printer 1 and the material was Pep G
 
-![video](IMG_5731.MOV)
+![video](./IMG_5731.MOV)
 ![MEGR 2156-7 Title](IMG_5728.JPEG)
 ![MEGR 2156-7 Title](IMG_5730.JPEG)
 ![MEGR 2156-7 Title](IMG_5732.JPEG)
