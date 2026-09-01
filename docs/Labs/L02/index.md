@@ -21,12 +21,12 @@ Check overall dimensions and print time before printing to make sure the design 
 
 ## Print Something Small
 
-##Download
+## Download
 https://www.printables.com/model/521268-pacman-and-ghosts-pot-plant
 I chose this model because I always Liked playing pacman.
-##PRUSASCLICER
+## PRUSASCLICER
 I used Prusa slicer to process my stl file for it to 3d print. I chose this because it was free. I orientated the parts so that the flat surface or my part was on the printing bed. Since there was a solid flat surface on the bottom of my part and the contours of the part did not overhang much, I did not use any supports. I did shrink it down to 30% of the original scale so it would 3d print in 9 minutes. Prusa slicer made everything very easy and simple and I had no problems through this process.
-##THE PRINT
+## THE PRINT
 I printed with Nathan Zimmermann and Eshan Thanker. The process was easy. This was on the core One Printer 1 and the material was Pep G
 
 ![MEGR 2156-7 Title](IMG_5731.MOV)
