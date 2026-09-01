@@ -32,7 +32,6 @@ I printed with Nathan Zimmermann and Eshan Thanker. The process was easy. This w
 ![MEGR 2156-7 Title](IMG_5731.MOV)
 ![MEGR 2156-7 Title](IMG_5728.JPEG)
 ![MEGR 2156-7 Title](IMG_5730.JPEG)
-![MEGR 2156-7 Title](IMG_5731.JPEG)
 ![MEGR 2156-7 Title](IMG_5732.JPEG)
 ![MEGR 2156-7 Title](IMG_5738.JPEG)
 ![MEGR 2156-7 Title](IMG_5736.JPEG)
