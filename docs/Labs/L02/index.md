@@ -33,7 +33,12 @@ I printed with Nathan Zimmermann and Eshan Thanker. The process was easy. This w
 ![MEGR 2156-7 Title](IMG_5728.JPEG)
 ![MEGR 2156-7 Title](IMG_5730.JPEG)
 ![MEGR 2156-7 Title](IMG_5731.JPEG)
+![MEGR 2156-7 Title](IMG_5732.JPEG)
 ![MEGR 2156-7 Title](IMG_5738.JPEG)
 ![MEGR 2156-7 Title](IMG_5736.JPEG)
-![MEGR 2156-7 Title](IMG_5732.JPEG)
+
+## Lessons Learned
+I learned How easy It was to 3d print with the new slicers they have these days. Back in the day I used to use simplified 3d which was a little more complicated.
+I would like to shout out my teammates Nathan and Eshan who helped me and not including waiting to use the printer it took me 40 mins to go from download to printed item off the printer. The reseources I used were the 3d printing lab and printables as well as Prusa slice.
+
 
