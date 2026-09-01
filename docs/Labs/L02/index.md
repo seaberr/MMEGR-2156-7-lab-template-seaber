@@ -25,7 +25,7 @@ Download
 https://www.printables.com/model/521268-pacman-and-ghosts-pot-plant
 I chose this model because I always Liked playing pacman.
 ![MEGR 2156-7 Title](IMG_5728.JPEG)
-![MEGR 2156-7 Title](IMG_5738.jpeg)
-![MEGR 2156-7 Title](IMG_5736.jpeg)
-![MEGR 2156-7 Title](IMG_5732.jpeg)
+![MEGR 2156-7 Title](IMG_5738.JPEG)
+![MEGR 2156-7 Title](IMG_5736.JPEG)
+![MEGR 2156-7 Title](IMG_5732.JPEG)
 
