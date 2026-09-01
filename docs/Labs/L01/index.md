@@ -1,4 +1,5 @@
-# Lab 1
+![MEGR 2156-7 Title](MEES_Logo_Standard.png)
+# Lab 1 GitHub + design Process
 
 https://sites.google.com/view/sethschafferportfolio/home
 ![MEGR 2156-7 Title](Screenshot_1-9-2026_84723_sites.google.com.jpeg)
