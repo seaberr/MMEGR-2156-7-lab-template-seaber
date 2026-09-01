@@ -1,3 +1,4 @@
+![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # Lab 2 First Print
 
 ## Question
