@@ -1,2 +1,2 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
-# Lab 9 – [Topic]
+# Lab 9 – Laser Cutter
