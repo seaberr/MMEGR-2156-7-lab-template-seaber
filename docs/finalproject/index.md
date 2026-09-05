@@ -1,4 +1,4 @@
-# Final Project – [Topic]
+# Final Project 
 
 ## Objectives
 
