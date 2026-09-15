@@ -73,7 +73,7 @@ Was the outcome different than what you originally thought?
 https://youtu.be/Wwpaoy1UOgA
 [![Watch the demonstration video](https://img.youtube.com/vi/Wwpaoy1UOgA/maxresdefault.jpg)](https://youtu.be/Wwpaoy1UOgA)
 ### Lessons Learn (15%)
-### Dimensional Accuracy and Tolerance Test
+So the outcomes generally were pretty accurate to what the manufacturer stated the Prusa Core One was capable of. I am surprised that the Slicers quality wasn't also a factor that made the printer fail a little more than it did. I did notice that the printer did fail once which I probably would blame on the slicer rebuilding my Creo model in a low-quality manner this was for the first tolerance test at 12.5mm. 
 ## Tolerance test results
 **Tolerance specification:** ±0.3% of the intended dimension, with a minimum tolerance of ±0.3 mm. 
 
@@ -86,6 +86,7 @@ https://youtu.be/Wwpaoy1UOgA
 | 2.00 | 2.133 | 0.133 | 6.65% | ±0.300 | **Pass** |
 | 1.25 | 1.190 | 0.060 | 4.80% | ±0.300 | **Pass** |
 ## Agle Test results
+Rated up to 45 degrees
 | Angle (Degrees) | Pass/Fail |
 |---:|:---:|
 | 44° | **Pass** |
