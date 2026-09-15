@@ -9,34 +9,27 @@ For my Benchmark I used two test. One test was the overhang test and the other o
 
 ### Document Design (35%)
 ## I heavily documented my process using Creo to design a system where I Extruded
-Detail the steps and reasons/decisions from start to finish. There were a few main step I took whie designing. FIrst I opened a new part and extruded rectangular block. Then I chose a side and I started drawing fro a extrude cut for an overhang. I extruded 5 of these overhangs at different degrees. Next, I selected the top Plane and Drew a circle with a measured diameter and extruded this to a reasonable height. I repeated this process five more times and made the cylinders smaller each time so that there would be a perfect range for my tolerence test.
+Detail the steps and reasons/decisions from start to finish. There were a few main step I took whie designing. 
+## FIrst I opened a new part and extruded rectangular block. 
 ![IMG 5919](IMG_5919.JPEG)
 
 ![IMG 5920](IMG_5920.JPEG)
-
+## Then I chose a side and I started drawing from a extrude cut for an overhang.
 ![IMG 5922](IMG_5922.JPEG)
 
 ![IMG 5926](IMG_5926.JPEG)
-
+##  I extruded 5 of these overhangs at different degrees.
 ![IMG 5927](IMG_5927.JPEG)
 
-![IMG 5928](IMG_5928.JPEG)
 
-![IMG 5930](IMG_5930.JPEG)
 
 ![IMG 5932](IMG_5932.JPEG)
-
+## Next, I selected the top Plane and Drew a circle with a measured diameter and extruded this to a reasonable height.
 ![IMG 5933](IMG_5933.JPEG)
-
+##  I repeated this process five more times and made the cylinders smaller each time so that there would ba perfect range for my tolerence test.
 ![IMG 5979](IMG_5979.JPEG)
 
-![IMG 5980](IMG_5980.JPEG)
 
-![IMG 5982](IMG_5982.JPEG)
-
-![IMG 5984](IMG_5984.JPEG)
-
-![IMG 5985](IMG_5985.JPEG)
 
 
 Detail what parameters you are trying to characterize.
