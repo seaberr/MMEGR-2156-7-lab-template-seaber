@@ -5,7 +5,51 @@ Design an artifact in which benchmarks a parameter for the Prusa 3D printer.
 Documentation and Grading:
 Example HERE
 ### Parameter (5%)
+## Project Images
 
+![IMG 5919](IMG_5919.JPEG)
+
+![IMG 5920](IMG_5920.JPEG)
+
+![IMG 5922](IMG_5922.JPEG)
+
+![IMG 5926](IMG_5926.JPEG)
+
+![IMG 5927](IMG_5927.JPEG)
+
+![IMG 5928](IMG_5928.JPEG)
+
+![IMG 5930](IMG_5930.JPEG)
+
+![IMG 5932](IMG_5932.JPEG)
+
+![IMG 5933](IMG_5933.JPEG)
+
+![IMG 5979](IMG_5979.JPEG)
+
+![IMG 5980](IMG_5980.JPEG)
+
+![IMG 5982](IMG_5982.JPEG)
+
+![IMG 5984](IMG_5984.JPEG)
+
+![IMG 5985](IMG_5985.JPEG)
+
+![IMG 5987](IMG_5987.JPEG)
+
+![IMG 5992](IMG_5992.JPEG)
+
+![IMG 6002](IMG_6002.JPEG)
+
+![IMG 6003](IMG_6003.JPEG)
+
+![IMG 6017](IMG_6017.JPEG)
+
+![IMG 6018](IMG_6018.JPEG)
+
+![IMG 6025](IMG_6025.JPEG)
+
+![IMG 6026](IMG_6026.JPEG)
 Detail what parameters you are trying to characterize.
 ### Document Design (35%)
 
