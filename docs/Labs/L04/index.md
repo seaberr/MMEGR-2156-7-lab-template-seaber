@@ -5,7 +5,7 @@ Design an artifact in which benchmarks a parameter for the Prusa 3D printer.
 Documentation and Grading:
 Example HERE
 ### Parameter (5%)
-For my Benchmark I used two test. One test was the overhang test and the other one was the tollerance test. 
+For my Benchmark I used two test. One test was the overhang test and the other one was the tolerance test. I chose these Because I have been thinking of Ideas for things to make later on in the semester and the Tolerence Is very important to me if I want things to fit together correctly. I also Chose the overhang test because I hate when my 3d prints overhang does not look good so I wanted to find the real limit for my projects to come.
 
 ### Document Design (35%)
 ## I heavily documented my process using Creo to design a system where I Extruded
@@ -46,11 +46,16 @@ Detail the steps and reasons/decisions from start to finish.
 ### Preprocessor (30%)
 
 Detail the reasons why you choose the build parameters in the pre-processor. Note the slice information on Prusaslicer. Some, not all questions, to answer are outlined below to guide your documentation.
-Why choose the infill?
-Why choose the build orientation?
-Did you use supports if so, how did you do add supports in the software.
-Did you need to scale, if so why and how?
-Detail any mistakes throughout the process.
+#### Why choose the infill? 
+I chose 15% infil of PETG
+#### Why choose the build orientation?
+I chose the build orientation when I designed the model in creo becasue it was specifically made so that the overhangs would go above 45 degrees to test the limits of the 3d printer. If I did not do that the 3d printing test would have been a waste.
+#### Did you use supports if so, how did you do add supports in the software. 
+I did not use and supports
+#### Did you need to scale, if so why and how?
+Yes I scaled it by 1/2 so that It would print quickly. This also allowed me to easily calculate the new dimentions of my tollerence gauge studs because I would just multiply by 0.5.
+#### Detail any mistakes throughout the process.
+I made the mistake of not Documenting every step, so I took a step back and redid my work in Creo to get you all the photos you could ever want.
 ### Print Artifact (10%)
 ![IMG 5987](IMG_5987.JPEG)
 
@@ -93,5 +98,5 @@ Rated up to 45 degrees
 ## ![IMG 6025](IMG_6025.JPEG)
 
 ### (5%) Resources
-
+I used Proto Labs Manufacturing Accelerated, Design Rules for 3d Printing and The Prusa Core One Manufacturer DATA sheet
 
