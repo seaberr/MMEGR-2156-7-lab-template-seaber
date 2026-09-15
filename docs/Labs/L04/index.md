@@ -39,11 +39,6 @@ For my Benchmark I used two test. One test was the overhang test and the other o
 
 ![IMG 6017](IMG_6017.JPEG)
 
-![IMG 6018](IMG_6018.JPEG)
-
-![IMG 6025](IMG_6025.JPEG)
-
-![IMG 6026](IMG_6026.JPEG)
 Detail what parameters you are trying to characterize.
 
 Document the design process which includes many pictures with an overview of images.
@@ -85,6 +80,7 @@ So the outcomes generally were pretty accurate to what the manufacturer stated t
 | 5.00 | 4.720 | 0.280 | 5.60% | ±0.300 | **Pass** |
 | 2.00 | 2.133 | 0.133 | 6.65% | ±0.300 | **Pass** |
 | 1.25 | 1.190 | 0.060 | 4.80% | ±0.300 | **Pass** |
+## ![IMG 6018](IMG_6018.JPEG)
 ## Agle Test results
 Rated up to 45 degrees
 | Angle (Degrees) | Pass/Fail |
@@ -94,6 +90,8 @@ Rated up to 45 degrees
 | 46° | **Fail** |
 | 47° | **Fail** |
 | 48° | **Fail** |
+## ![IMG 6025](IMG_6025.JPEG)
+
 ### (5%) Resources
 
 
