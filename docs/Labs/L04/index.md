@@ -38,7 +38,6 @@ Detail the steps and reasons/decisions from start to finish. There were a few ma
 
 ![IMG 5985](IMG_5985.JPEG)
 
-![IMG 6017](IMG_6017.JPEG)
 
 Detail what parameters you are trying to characterize.
 
@@ -64,6 +63,8 @@ I made the mistake of not Documenting every step, so I took a step back and redi
 ![IMG 6002](IMG_6002.JPEG)
 
 ![IMG 6003](IMG_6003.JPEG)
+
+![IMG 6017](IMG_6017.JPEG)
 Post a picture of the first layer calibration.
 Print artifact and describe what the artifact tested.
 Embed Video of the artifact build.
