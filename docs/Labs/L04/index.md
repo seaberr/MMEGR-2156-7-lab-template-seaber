@@ -9,6 +9,7 @@ For my Benchmark I used two test. One test was the overhang test and the other o
 
 ### Document Design (35%)
 ## I heavily documented my process using Creo to design a system where I Extruded
+Detail the steps and reasons/decisions from start to finish. There were a few main step I took whie designing. FIrst I opened a new part and extruded rectangular block. Then I chose a side and I started drawing fro a extrude cut for an overhang. I extruded 5 of these overhangs at different degrees. Next, I selected the top Plane and Drew a circle with a measured diameter and extruded this to a reasonable height. I repeated this process five more times and made the cylinders smaller each time so that there would be a perfect range for my tolerence test.
 ![IMG 5919](IMG_5919.JPEG)
 
 ![IMG 5920](IMG_5920.JPEG)
@@ -42,12 +43,11 @@ For my Benchmark I used two test. One test was the overhang test and the other o
 Detail what parameters you are trying to characterize.
 
 Document the design process which includes many pictures with an overview of images.
-Detail the steps and reasons/decisions from start to finish.
 ### Preprocessor (30%)
 
 Detail the reasons why you choose the build parameters in the pre-processor. Note the slice information on Prusaslicer. Some, not all questions, to answer are outlined below to guide your documentation.
 #### Why choose the infill? 
-I chose 15% infil of PETG
+I chose 15% infil of PETG because It was quick and cheap.
 #### Why choose the build orientation?
 I chose the build orientation when I designed the model in creo becasue it was specifically made so that the overhangs would go above 45 degrees to test the limits of the 3d printer. If I did not do that the 3d printing test would have been a waste.
 #### Did you use supports if so, how did you do add supports in the software. 
