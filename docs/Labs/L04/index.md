@@ -25,6 +25,10 @@ Post a picture of the first layer calibration.
 Print artifact and describe what the artifact tested.
 Embed Video of the artifact build.
 Was the outcome different than what you originally thought?
+## Video
+-----------------------------------------------------------
+https://youtu.be/Wwpaoy1UOgA
+[![Watch the demonstration video](https://img.youtube.com/vi/Wwpaoy1UOgA/maxresdefault.jpg)](https://youtu.be/Wwpaoy1UOgA)
 ### Lessons Learn (15%)
 
 Detailed lessons learned and things you would change throughout the process, you should learn a minimum of four things. Be specific, use more articulate, engineering, and 3D print and design language.
