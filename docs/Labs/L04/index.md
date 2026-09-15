@@ -35,14 +35,6 @@ Example HERE
 
 ![IMG 5985](IMG_5985.JPEG)
 
-![IMG 5987](IMG_5987.JPEG)
-
-![IMG 5992](IMG_5992.JPEG)
-
-![IMG 6002](IMG_6002.JPEG)
-
-![IMG 6003](IMG_6003.JPEG)
-
 ![IMG 6017](IMG_6017.JPEG)
 
 ![IMG 6018](IMG_6018.JPEG)
@@ -64,7 +56,13 @@ Did you use supports if so, how did you do add supports in the software.
 Did you need to scale, if so why and how?
 Detail any mistakes throughout the process.
 ### Print Artifact (10%)
+![IMG 5987](IMG_5987.JPEG)
 
+![IMG 5992](IMG_5992.JPEG)
+
+![IMG 6002](IMG_6002.JPEG)
+
+![IMG 6003](IMG_6003.JPEG)
 Post a picture of the first layer calibration.
 Print artifact and describe what the artifact tested.
 Embed Video of the artifact build.
