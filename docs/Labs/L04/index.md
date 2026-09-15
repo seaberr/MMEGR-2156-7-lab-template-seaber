@@ -5,8 +5,10 @@ Design an artifact in which benchmarks a parameter for the Prusa 3D printer.
 Documentation and Grading:
 Example HERE
 ### Parameter (5%)
-## Project Images
+For my Benchmark I used two test. One test was the overhang test and the other one was the tollerance test. 
 
+### Document Design (35%)
+## I heavily documented my process using Creo to design a system where I Extruded
 ![IMG 5919](IMG_5919.JPEG)
 
 ![IMG 5920](IMG_5920.JPEG)
@@ -43,7 +45,6 @@ Example HERE
 
 ![IMG 6026](IMG_6026.JPEG)
 Detail what parameters you are trying to characterize.
-### Document Design (35%)
 
 Document the design process which includes many pictures with an overview of images.
 Detail the steps and reasons/decisions from start to finish.
@@ -72,9 +73,26 @@ Was the outcome different than what you originally thought?
 https://youtu.be/Wwpaoy1UOgA
 [![Watch the demonstration video](https://img.youtube.com/vi/Wwpaoy1UOgA/maxresdefault.jpg)](https://youtu.be/Wwpaoy1UOgA)
 ### Lessons Learn (15%)
+### Dimensional Accuracy and Tolerance Test
+## Tolerance test results
+**Tolerance specification:** ±0.3% of the intended dimension, with a minimum tolerance of ±0.3 mm. 
 
-Detailed lessons learned and things you would change throughout the process, you should learn a minimum of four things. Be specific, use more articulate, engineering, and 3D print and design language.
-Actual time it took from start to finish.
+| Intended Value (mm) | Measured Value (mm) | Absolute Error (mm) | Percent Error | Allowed Tolerance (mm) | Pass/Fail |
+|---:|---:|---:|---:|---:|:---:|
+| 12.50 | 11.938 | 0.562 | 4.50% | ±0.300 | **Fail** |
+| 10.00 | 9.800 | 0.200 | 2.00% | ±0.300 | **Pass** |
+| 6.00 | 6.020 | 0.020 | 0.33% | ±0.300 | **Pass** |
+| 5.00 | 4.720 | 0.280 | 5.60% | ±0.300 | **Pass** |
+| 2.00 | 2.133 | 0.133 | 6.65% | ±0.300 | **Pass** |
+| 1.25 | 1.190 | 0.060 | 4.80% | ±0.300 | **Pass** |
+## Agle Test results
+| Angle (Degrees) | Pass/Fail |
+|---:|:---:|
+| 44° | **Pass** |
+| 45° | **Pass** |
+| 46° | **Fail** |
+| 47° | **Fail** |
+| 48° | **Fail** |
 ### (5%) Resources
 
 
