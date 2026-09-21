@@ -9,7 +9,25 @@ Test the snap fit.
 Iterate if needed.
 ### Documentation:
 (35%) Modeling
-
+![MEGR 2156-7 Title](MEES_Logo_Standard.png)
+![Image 6199](IMG_6199.JPEG)
+![Image 6200](IMG_6200.JPEG)
+![Image 6203](IMG_6203.JPEG)
+![Image 6221](IMG_6221.JPEG)
+![Image 6222](IMG_6222.JPEG)
+![Image 6227](IMG_6227.JPEG)
+![Image 6231](IMG_6231.JPEG)
+![Image 6232](IMG_6232.JPEG)
+![Image 6236](IMG_6236.JPEG)
+![Image 6237](IMG_6237.JPEG)
+![Image 6239](IMG_6239.JPEG)
+![Image 6240](IMG_6240.JPEG)
+![Image 6241](IMG_6241.JPEG)
+![Image 6242](IMG_6242.JPEG)
+![Image 6243](IMG_6243.JPEG)
+![Image 6248](IMG_6248.JPEG)
+![Image 6251](IMG_6251.JPEG)
+![Image 6263](IMG_6263.JPEG)
 Model each of the components. Research a common Young's Modulus and yield strength of PLA. Use a Safety factor of 3.5. Choose a transverse load between .25 lbf - 5 lbf. The dimensions will depend on the flexing using the chosen load. The axial load of the clip should be in between 5 lbf - 10 lbf.
 
 Initially chose the width and base of the flexure.
