@@ -9,6 +9,7 @@ So, I modeled my ball and socket joint as you intended us to. The ball and socke
 
 ## (35%) Parametrically design (No credit for this section if you do not use parametric design)
 ----------------------------------------------------------------------------------------------------------
+Here are photos of the design I made where I used to revolve to make the ball and socket. I completed the designes with extrudes. An imortant extrude was once through the socket to allow it to be elastic. 
 ![Image 6199](IMG_6199.JPEG)
 ![Image 6200](IMG_6200.JPEG)
 ![Image 6203](IMG_6203.JPEG)
