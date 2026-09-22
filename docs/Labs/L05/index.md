@@ -11,24 +11,6 @@ Iterate if needed.
 (35%) Modeling
 ![Image 6199](IMG_6267.JPEG)
 
-![Image 6199](IMG_6199.JPEG)
-![Image 6200](IMG_6200.JPEG)
-![Image 6203](IMG_6203.JPEG)
-![Image 6221](IMG_6221.JPEG)
-![Image 6222](IMG_6222.JPEG)
-![Image 6227](IMG_6227.JPEG)
-![Image 6231](IMG_6231.JPEG)
-![Image 6232](IMG_6232.JPEG)
-![Image 6236](IMG_6236.JPEG)
-![Image 6237](IMG_6237.JPEG)
-![Image 6239](IMG_6239.JPEG)
-![Image 6240](IMG_6240.JPEG)
-![Image 6241](IMG_6241.JPEG)
-![Image 6242](IMG_6242.JPEG)
-![Image 6243](IMG_6243.JPEG)
-![Image 6248](IMG_6248.JPEG)
-![Image 6251](IMG_6251.JPEG)
-![Image 6263](IMG_6263.JPEG)
 Model each of the components. Research a common Young's Modulus and yield strength of PLA. Use a Safety factor of 3.5. Choose a transverse load between .25 lbf - 5 lbf. The dimensions will depend on the flexing using the chosen load. The axial load of the clip should be in between 5 lbf - 10 lbf.
 
 Initially chose the width and base of the flexure.
@@ -41,20 +23,26 @@ Determine the axial stress of the flexure with an appropriate load.
 Determine the average shear stress of the flexure protrusion.
 Iterate if needed.
 ### (35%) Parametrically design (No credit for this section if you do not use parametric design)
+![Image 6199](IMG_6199.JPEG)
+![Image 6200](IMG_6200.JPEG)
+![Image 6203](IMG_6203.JPEG)
+![Image 6221](IMG_6221.JPEG)
+![Image 6222](IMG_6222.JPEG)
+![Image 6227](IMG_6227.JPEG)
+![Image 6231](IMG_6231.JPEG)
+![Image 6232](IMG_6232.JPEG)
+![Image 6236](IMG_6236.JPEG)
+![Image 6237](IMG_6237.JPEG)
+![Image 6239](IMG_6239.JPEG)
+![Image 6240](IMG_6240.JPEG)
 
-Use parametric design where appropriate.
-Digitally sketch in CAD your design using the dimensions design in the first step.
-In your documentation answer the following questions and/or apply the statements to your work.
-What are the parameters used?
-Why did you choose the specific parameters?
-What values did you choose for the specific parameters?
-Did the values change throughout the process? If so, why?
-Take many pictures of the different stages of the CAD model.
-Detail the decision making process and how you determined the engineered allowances of the interactive parts.
-Take a picture of the overall design in CAD.
 ### (30%) 3D printing  and Test
-
-Show the 3D printing process including the pre-process. Some, not all questions, to answer are outlined below to guide your documentation.
+![Image 6241](IMG_6241.JPEG)
+![Image 6242](IMG_6242.JPEG)
+![Image 6243](IMG_6243.JPEG)
+![Image 6248](IMG_6248.JPEG)
+![Image 6251](IMG_6251.JPEG)
+![Image 6263](IMG_6263.JPEG)
 
 Outline reasons for the pre-processor layout.
 Change the support default to organic, paint on support, or snug.
