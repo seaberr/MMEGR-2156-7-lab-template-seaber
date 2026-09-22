@@ -4,7 +4,7 @@ For this lab I designed a ball and socket joint which I wanted to work like an a
 ## Documentation:
 --------------------------------------------------------------------------------------------------
 (35%) Modeling
-So, I modeled my ball and socket joint as you intended us to. The ball and socket Joint had thickness of 5mm and an outside L of 35mm and a inside of 25. The ball that was received into the socket was 24.9mm and had to go through a 23mm diameter whole to pop in. I had to Split the socket in half to draw a free body diagram and model the force that causes the deflection. This force is in the x direction. The ball that pops in comes in vertically. The way it works is the ball that is on the 
+So, I modeled my ball and socket joint as you intended us to. The ball and socket Joint had thickness of 5mm and an outside L of 35mm and a inside of 25. The ball that was received into the socket was 24.9mm and had to go through a 23mm diameter whole to pop in. I had to Split the socket in half to draw a free body diagram and model the force that causes the deflection. This force is in the x direction. The ball that pops in comes in vertically. The way it works is the ball that is on the top and hits the socket at an angle which then gives it the x force it needs to deflect.
 ![Image 6199](IMG_6269.JPEG)
 
 ## (35%) Parametrically design (No credit for this section if you do not use parametric design)
