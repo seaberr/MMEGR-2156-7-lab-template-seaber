@@ -9,7 +9,8 @@ Test the snap fit.
 Iterate if needed.
 ### Documentation:
 (35%) Modeling
-![MEGR 2156-7 Title](MEES_Logo_Standard.png)
+![Image 6199](IMG_6267.JPEG)
+
 ![Image 6199](IMG_6199.JPEG)
 ![Image 6200](IMG_6200.JPEG)
 ![Image 6203](IMG_6203.JPEG)
