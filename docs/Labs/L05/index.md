@@ -26,6 +26,7 @@ Here are photos of the design I made where I used to revolve to make the ball an
 ## (30%) 3D printing  and Test
 ----------------------------------------------------------------------------------------------------
 I 3d Printed all of the parts in PETG and when I took them of the 3d printer I realized that I messed up. I did not design the parts well because they did not all fit together.
+https://youtu.be/0h8iq_RasZ0
 ![Image 6241](IMG_6241.JPEG)
 ![Image 6242](IMG_6242.JPEG)
 ![Image 6243](IMG_6243.JPEG)
