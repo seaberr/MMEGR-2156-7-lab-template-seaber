@@ -66,7 +66,8 @@ No supports but was set to automatic.
 #### If the fit was not correct, how did you modify the design. 
 my snap fit was incorrect I had to modify the prongs of my snap fit to have a fillet where it meets the base. I also had to modify the 3d print settings to 40% because I did not want to risk it breaking again.
 ### Show and Tell
-
+# Print video
+https://youtu.be/rWOO6npNZtU
 ![MEGR 2156-7 Title](IMG_6433.JPEG)
 (30%) Does it snap fit or slide in the artifact? (To be tested in class)
 
