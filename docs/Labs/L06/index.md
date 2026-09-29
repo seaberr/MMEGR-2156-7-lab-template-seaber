@@ -21,6 +21,10 @@
 ![MEGR 2156-7 Title](IMG_6423.JPEG)
 ![MEGR 2156-7 Title](IMG_6424.JPEG)
 ![MEGR 2156-7 Title](IMG_6430.JPEG)
+![MEGR 2156-7 Title](IMG_6431.JPEG)
+![MEGR 2156-7 Title](IMG_6433.JPEG)
+![MEGR 2156-7 Title](IMG_6434.JPEG)
+
 In order to design a mated part, take measurements of an artifact's feature you wish to mate your design.
 Parametrically design something small that snap fits or slides and sticks into one of the features of the artifact measured in class. (no key rings)
 Use parameters in CAD
