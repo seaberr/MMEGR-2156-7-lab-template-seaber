@@ -1,29 +1,9 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # Lab 6 – Design Fits for an Artifact
 ### Instructions
-![MEGR 2156-7 Title](IMG_6401.JPEG)
-![MEGR 2156-7 Title](IMG_6402.JPEG)
-![MEGR 2156-7 Title](IMG_6404.JPEG)
-![MEGR 2156-7 Title](IMG_6406.JPEG)
-![MEGR 2156-7 Title](IMG_6409.JPEG)
-![MEGR 2156-7 Title](IMG_6410.JPEG)
-![MEGR 2156-7 Title](IMG_6411.JPEG)
-![MEGR 2156-7 Title](IMG_6412.JPEG)
-![MEGR 2156-7 Title](IMG_6413.JPEG)
-![MEGR 2156-7 Title](IMG_6414.JPEG)
-![MEGR 2156-7 Title](IMG_6415.JPEG)
-![MEGR 2156-7 Title](IMG_6416.JPEG)
-![MEGR 2156-7 Title](IMG_6417.JPEG)
-![MEGR 2156-7 Title](IMG_6418.JPEG)
-![MEGR 2156-7 Title](IMG_6419.JPEG)
-![MEGR 2156-7 Title](IMG_6421.JPEG)
-![MEGR 2156-7 Title](IMG_6422.JPEG)
-![MEGR 2156-7 Title](IMG_6423.JPEG)
-![MEGR 2156-7 Title](IMG_6424.JPEG)
-![MEGR 2156-7 Title](IMG_6430.JPEG)
-![MEGR 2156-7 Title](IMG_6431.JPEG)
-![MEGR 2156-7 Title](IMG_6433.JPEG)
 ![MEGR 2156-7 Title](IMG_6434.JPEG)
+
+
 
 In order to design a mated part, take measurements of an artifact's feature you wish to mate your design.
 Parametrically design something small that snap fits or slides and sticks into one of the features of the artifact measured in class. (no key rings)
@@ -46,10 +26,26 @@ Recreate the feature in CAD.
 Take many pictures of the different stages of the CAD model.
 Detail the decision making process and how you determined the engineered allowances of the interactive parts.
 Take a picture of the overall design in CAD.
+![MEGR 2156-7 Title](IMG_6401.JPEG)
+![MEGR 2156-7 Title](IMG_6402.JPEG)
+![MEGR 2156-7 Title](IMG_6404.JPEG)
+![MEGR 2156-7 Title](IMG_6406.JPEG)
+![MEGR 2156-7 Title](IMG_6409.JPEG)
+![MEGR 2156-7 Title](IMG_6410.JPEG)
+![MEGR 2156-7 Title](IMG_6411.JPEG)
+![MEGR 2156-7 Title](IMG_6412.JPEG)
+![MEGR 2156-7 Title](IMG_6413.JPEG)
+![MEGR 2156-7 Title](IMG_6414.JPEG)
+![MEGR 2156-7 Title](IMG_6415.JPEG)
+![MEGR 2156-7 Title](IMG_6416.JPEG)
+![MEGR 2156-7 Title](IMG_6417.JPEG)
+![MEGR 2156-7 Title](IMG_6418.JPEG)
 ### Documentation
 
 (20%) In your documentation record the 3D printing process from stl to finish product. Take a short video of your part as it is 3D printing. Make sure to test your print before class to ensure of the fit. Furthermore, some, not all questions, to answer are outlined below to guide your documentation.
-
+![MEGR 2156-7 Title](IMG_6424.JPEG)
+![MEGR 2156-7 Title](IMG_6430.JPEG)
+![MEGR 2156-7 Title](IMG_6431.JPEG)
 What is the name machine you use?
 What is the size of the print?
 Outline reasons for the layout.
@@ -64,6 +60,7 @@ What did you use to remove the supports?
 If the fit was not correct, how did you modify the design. 
 ### Show and Tell
 
+![MEGR 2156-7 Title](IMG_6433.JPEG)
 (30%) Does it snap fit or slide in the artifact? (To be tested in class)
 
 ### Lessons Learned
