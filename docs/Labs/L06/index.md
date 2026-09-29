@@ -13,17 +13,18 @@ I measured the Motor for the parameters I used. I also Knew the parameters were 
 #### Why did you choose the specific parameters?
 I chose the motor parameters which were on the bottom of the motor where there were two mirrored holes that were centered around the center axis of the motor. I chose this becasue the 
 #### What values did you choose for the specific parameters?
-
+I chose the ones I got from the caliper measurement.
 #### Did the values change throughout the process? If so, why?
-
+Yes, I picked different places to measure from to be more accurate and to be honest through out the process I was looking for the best place to put my snap fit so I measured the artifact everywhere.
 #### Take measurements of the needed feature of the artifact.
-
+![MEGR 2156-7 Title](measure.JPEG)
+https://www.bedbathandbeyond.com/Home-Garden/Dial-Caliper-6-By-Stalwart/18100610/product.html
 #### Create a hand sketch of the feature and include it in the portfolio.
 Here is my sketch image 
 ![MEGR 2156-7 Title](IMG_6435.JPEG)
 #### Recreate the feature in CAD.
-This is my detailed portfolio of images that show the parametric cad design project. 
-Take a picture of the overall design in CAD.
+This is my detailed portfolio of images that show the parametric cad design project. I Had to go back and edit once because my first 3d print attempt resulted in a week part because i did not fillet the edges which for my snap fit It needs all the strength in the corner it can get.
+The picture of the overall cad design is at the end.
 ![MEGR 2156-7 Title](IMG_6401.JPEG)
 ![MEGR 2156-7 Title](IMG_6402.JPEG)
 ![MEGR 2156-7 Title](IMG_6404.JPEG)
@@ -44,18 +45,26 @@ Take a picture of the overall design in CAD.
 ![MEGR 2156-7 Title](IMG_6424.JPEG)
 ![MEGR 2156-7 Title](IMG_6430.JPEG)
 ![MEGR 2156-7 Title](IMG_6431.JPEG)
-What is the name machine you use?
-What is the size of the print?
+#### What is the name machine you use?
+Prusa Core 1
+#### What is the size of the print?
 Outline reasons for the layout.
 Outline reasons for build orientation.
 Outline reasons for the size of supports used.
-What was the wall thickness?
-How many layers are used in the print?
-What is the layer thickness?
-What is the build volume of your print?
-Outline slicer settings and reasons for the settings.
-What did you use to remove the supports?
-If the fit was not correct, how did you modify the design. 
+#### What was the wall thickness?
+I went with default which was 0.7mm
+#### How many layers are used in the print?
+763
+#### What is the layer thickness?
+.2mm
+#### What is the build volume of your print?
+440450mm^2
+#### Outline slicer settings and reasons for the settings.
+40% fill 
+#### What did you use to remove the supports?
+No supports but was set to automatic.
+#### If the fit was not correct, how did you modify the design. 
+my snap fit was incorrect I had to modify the prongs of my snap fit to have a fillet where it meets the base. I also had to modify the 3d print settings to 40% because I did not want to risk it breaking again.
 ### Show and Tell
 
 ![MEGR 2156-7 Title](IMG_6433.JPEG)
