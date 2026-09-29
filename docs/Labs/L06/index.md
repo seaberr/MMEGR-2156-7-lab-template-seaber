@@ -1,6 +1,26 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # Lab 6 – Design Fits for an Artifact
 ### Instructions
+![MEGR 2156-7 Title](IMG_6401.JPEG)
+![MEGR 2156-7 Title](IMG_6402.JPEG)
+![MEGR 2156-7 Title](IMG_6404.JPEG)
+![MEGR 2156-7 Title](IMG_6406.JPEG)
+![MEGR 2156-7 Title](IMG_6409.JPEG)
+![MEGR 2156-7 Title](IMG_6410.JPEG)
+![MEGR 2156-7 Title](IMG_6411.JPEG)
+![MEGR 2156-7 Title](IMG_6412.JPEG)
+![MEGR 2156-7 Title](IMG_6413.JPEG)
+![MEGR 2156-7 Title](IMG_6414.JPEG)
+![MEGR 2156-7 Title](IMG_6415.JPEG)
+![MEGR 2156-7 Title](IMG_6416.JPEG)
+![MEGR 2156-7 Title](IMG_6417.JPEG)
+![MEGR 2156-7 Title](IMG_6418.JPEG)
+![MEGR 2156-7 Title](IMG_6419.JPEG)
+![MEGR 2156-7 Title](IMG_6421.JPEG)
+![MEGR 2156-7 Title](IMG_6422.JPEG)
+![MEGR 2156-7 Title](IMG_6423.JPEG)
+![MEGR 2156-7 Title](IMG_6424.JPEG)
+![MEGR 2156-7 Title](IMG_6430.JPEG)
 In order to design a mated part, take measurements of an artifact's feature you wish to mate your design.
 Parametrically design something small that snap fits or slides and sticks into one of the features of the artifact measured in class. (no key rings)
 Use parameters in CAD
