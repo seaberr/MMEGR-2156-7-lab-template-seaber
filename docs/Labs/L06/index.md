@@ -22,7 +22,7 @@ I chose the motor parameters which were on the bottom of the motor where there w
 Here is my sketch image 
 #### Recreate the feature in CAD.
 This is my detailed portfolio of images that show the parametric cad design project. 
-
+![MEGR 2156-7 Title](IMG_6435.JPEG)
 Take a picture of the overall design in CAD.
 ![MEGR 2156-7 Title](IMG_6401.JPEG)
 ![MEGR 2156-7 Title](IMG_6402.JPEG)
