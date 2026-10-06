@@ -17,7 +17,34 @@ Detail how you determined the engineered tolerances of the interactive parts. (T
 Detail decision making along the way.
 Detail all the components and functions of each.
 Take many pictures of the different stages of the CAD model.
-Take a picture of the overall design in CAD.
+Take a picture of the overall design in CAD
+
+
+![MEGR 2156-7 Title](IMG_6582.JPEG)
+
+![MEGR 2156-7 Title](IMG_6583.JPEG)
+
+![MEGR 2156-7 Title](IMG_6586.JPEG)
+
+![MEGR 2156-7 Title](IMG_6587.JPEG)
+
+![MEGR 2156-7 Title](IMG_6588.JPEG)
+
+![MEGR 2156-7 Title](IMG_6589.JPEG)
+
+![MEGR 2156-7 Title](IMG_6591.JPEG)
+
+![MEGR 2156-7 Title](IMG_6592.JPEG)
+
+![MEGR 2156-7 Title](IMG_6593.JPEG)
+
+![MEGR 2156-7 Title](IMG_6594.JPEG)
+
+![MEGR 2156-7 Title](IMG_6595.JPEG)
+
+![MEGR 2156-7 Title](IMG_6596.JPEG)
+
+![MEGR 2156-7 Title](IMG_6597.JPEG)
 ### (35%) 3D Print
 
 Document the 3D printing process including the pre-process. Some, not all questions, to answer are outlined below to guide your documentation. 
@@ -38,6 +65,13 @@ Outline reasons for the layout.
 Outline reasons for build orientation.
 Outline slicer settings and reasons for the settings.
 Note the slice information on Prusa Slicer
+![MEGR 2156-7 Title](IMG_6567.JPEG)
+
+![MEGR 2156-7 Title](IMG_6568.JPEG)
+
+![MEGR 2156-7 Title](IMG_6569.JPEG)
+
+![MEGR 2156-7 Title](IMG_6574.JPEG)
 ### (10%) Lessons Learned
 
 Detailed lessoned learned throughout the process, the more detail the better which includes detailing any mistakes throughout the process. Actual time it took from start to finish and resources
