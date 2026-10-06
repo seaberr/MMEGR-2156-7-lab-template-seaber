@@ -6,19 +6,16 @@ Lab:
 ### (10%) Research
 
 Research novel linkages newer than 5 years old.
+
 Discuss how these solutions can be used in different industries
 Provide three resources 
 ### (45%) Design
 
-Document the process which includes many pictures with overview of images
+#### Reason why you chose to design what you did.
+I designed mine to be simple because whenever you engineer something new It is good to start simple figure out what works and then make it more complex or add different features.
 
-Reason why you chose to design what you did.
-Detail how you determined the engineered tolerances of the interactive parts. (Trial and error or machinery's Handbook)
-Detail decision making along the way.
-Detail all the components and functions of each.
-Take many pictures of the different stages of the CAD model.
-Take a picture of the overall design in CAD
-
+#### Detail all the components and functions of each.
+The 4 components consisted of a Pin with a ring for a snap fit clip. There was a snap fit clip as well as two identical blocks with wholes in them. 
 
 ![MEGR 2156-7 Title](IMG_6583.JPEG)
 
@@ -47,22 +44,26 @@ Take a picture of the overall design in CAD
 
 Document the 3D printing process including the pre-process. Some, not all questions, to answer are outlined below to guide your documentation. 
 
-Change the default seem 
-Change the level of elephant's foot
-What number machine did you use?
-Did you use a raft? If so, what were the settings?
-What was the wall thickness?
-What infill did you use and why?
-Did you use supports? Why or why not? If you did, explain the technical process you used to support the print.
-What did you use to remove the supports?
-How many layers are used in the print?
-What is the layer thickness?
-What is the build volume of your print?
-Comment on the surface finish of the supports
-Outline reasons for the layout.
-Outline reasons for build orientation.
-Outline slicer settings and reasons for the settings.
-Note the slice information on Prusa Slicer
+#### Change the default seem 
+
+#### Change the level of elephant's foot
+
+#### What number machine did you use?
+
+#### Did you use a raft? If so, what were the settings?
+No
+#### What was the wall thickness?
+#### What infill did you use and why?
+#### Did you use supports? Why or why not? If you did, explain the technical process you used to support the print.
+#### What did you use to remove the supports?
+#### How many layers are used in the print?
+#### What is the layer thickness?
+#### What is the build volume of your print?
+#### Comment on the surface finish of the supports
+#### Outline reasons for the layout.
+#### Outline reasons for build orientation.
+#### Outline slicer settings and reasons for the settings.
+#### Note the slice information on Prusa Slicer
 https://youtube.com/shorts/SjacwONPxPw?feature=share
 ![MEGR 2156-7 Title](IMG_6567.JPEG)
 
@@ -76,7 +77,9 @@ https://youtube.com/shorts/SjacwONPxPw?feature=share
 ![MEGR 2156-7 Title](IMG_6582.JPEG)
 ### (10%) Lessons Learned
 
-Detailed lessoned learned throughout the process, the more detail the better which includes detailing any mistakes throughout the process. Actual time it took from start to finish and resources
+This took me about 9 hours for mstart to finish. I learned about how the 
+Tolerances: Did your first-print clearances work? What would you change, and by how much?
+
 
 
 
