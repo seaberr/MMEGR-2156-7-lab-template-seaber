@@ -45,24 +45,30 @@ The 4 components consisted of a Pin with a ring for a snap fit clip. There was a
 Document the 3D printing process including the pre-process. Some, not all questions, to answer are outlined below to guide your documentation. 
 
 #### Change the default seem 
+I changed the default seam to aligned 
+
+![MEGR 2156-7 Title](IMG_6568.JPEG)
 
 #### Change the level of elephant's foot
-
+![MEGR 2156-7 Title](IMG_6567.JPEG)
 #### What number machine did you use?
-
+15
 #### Did you use a raft? If so, what were the settings?
 No
 #### What was the wall thickness?
+default
 #### What infill did you use and why?
+30% because I thought it would be most clean
 #### Did you use supports? Why or why not? If you did, explain the technical process you used to support the print.
+I used to support around my pin 
 #### What did you use to remove the supports?
-#### How many layers are used in the print?
-#### What is the layer thickness?
-#### What is the build volume of your print?
-#### Comment on the surface finish of the supports
-#### Outline reasons for the layout.
+a pair of clippers
+
+
 #### Outline reasons for build orientation.
+least overhangs and optimal surface finish
 #### Outline slicer settings and reasons for the settings.
+![MEGR 2156-7 Title](IMG_6574.JPEG)
 #### Note the slice information on Prusa Slicer
 https://youtube.com/shorts/SjacwONPxPw?feature=share
 ![MEGR 2156-7 Title](IMG_6567.JPEG)
@@ -71,14 +77,12 @@ https://youtube.com/shorts/SjacwONPxPw?feature=share
 
 ![MEGR 2156-7 Title](IMG_6569.JPEG)
 
-![MEGR 2156-7 Title](IMG_6574.JPEG)
-
 
 ![MEGR 2156-7 Title](IMG_6582.JPEG)
 ### (10%) Lessons Learned
 
-This took me about 9 hours for mstart to finish. I learned about how the 
-Tolerances: Did your first-print clearances work? What would you change, and by how much?
+This took me about 9 hours for mstart to finish. I learned about how to use the ratio to 
+
 
 
 
