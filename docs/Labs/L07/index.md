@@ -64,7 +64,6 @@ I used to support around my pin
 #### What did you use to remove the supports?
 a pair of clippers
 
-
 #### Outline reasons for build orientation.
 least overhangs and optimal surface finish
 #### Outline slicer settings and reasons for the settings.
@@ -81,7 +80,7 @@ https://youtube.com/shorts/SjacwONPxPw?feature=share
 ![MEGR 2156-7 Title](IMG_6582.JPEG)
 ### (10%) Lessons Learned
 
-This took me about 9 hours for mstart to finish. I learned about how to use the ratio to 
+This took me about 9 hours for start to finish. I learned about how to use the ratio for tolerancing holes. I also learned to create a solid connection.
 
 
 
