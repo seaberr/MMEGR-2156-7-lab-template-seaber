@@ -4,6 +4,7 @@
 Read Great Questions Lead to Great Design: A Guide to the Design-thinking Process
 Use what you have learned thus far to design and 3D print something useful and or functional. No artwork.
 Documentation and Grading:
+
 ### Reading and Writing (5%)
 
 Read Great Questions Lead to Great Design: A Guide to the Design-thinking Process and write a paragraph on why asking smart questions matter.
@@ -12,6 +13,7 @@ Read Great Questions Lead to Great Design: A Guide to the Design-thinking Proces
 How did you notice the problem
 Who are you designing the product for? Who is your ideal user?
 I need to bolt my door pocket to my car I am working on. I do not have the proper bracket. It will cost me 8$ for two small plastic pieces but 20$ for shipping from California. I cannot spend this much money because I feel like I am getting scammed. Honestly this part I designed is very simple, but I would have 3d printed it anyway just due to the cost. This made it perfect for this project because you really gave us no complex instructions.
+![MEGR 2156-7 Title](Screenshot_19-10-2026_144353_www.design911.com.jpeg)
 ##### What is your approach to your design?
 I approached this design with the intent of 
 
