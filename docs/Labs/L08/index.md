@@ -45,16 +45,25 @@ Prusa Core ONE
 ##### Did you use a raft? If so, what were the settings?
 NO
 ##### What was the wall thickness?
-
+.7mm
 ##### Did you use supports? Why or why not? If you did, explain the technical process you used to support the print.
+Yes, I had holes that were horizontally placed so they needed a little help.
 ##### What did you use to remove the supports?
+A screwdriver
 ##### How many layers are used in the print?
+69
 ##### What is the layer thickness?
+.2
 ##### What is the build volume of your print?
+9143 mm^2
 ##### Comment on the surface finish of the supports
+Good
 ##### Outline reasons for the layout.
+I set it up so the least extrudes would be horizontal. 
 ##### Outline reasons for build orientation.
+I also set it so there would be a flat surface on the bed.
 ##### Outline slicer settings and reasons for the settings.
+
 ##### Note the slice information on Prusa Slicer
 
 ### (10%) Lessons Learned
