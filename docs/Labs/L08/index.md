@@ -14,14 +14,26 @@ How did you notice the problem
 Who are you designing the product for? Who is your ideal user?
 What is your approach to your design?
 ### Design (40%) 
-
+![MEGR 2156-7 Title](IMG_6824.JPEG)
+![MEGR 2156-7 Title](IMG_6828.JPEG)
+![MEGR 2156-7 Title](IMG_6829.JPEG)
+![MEGR 2156-7 Title](IMG_6830.JPEG)
+![MEGR 2156-7 Title](IMG_6831.JPEG)
+![MEGR 2156-7 Title](IMG_6832.JPEG)
+![MEGR 2156-7 Title](IMG_6833.JPEG)
+![MEGR 2156-7 Title](IMG_6834.JPEG)
+![MEGR 2156-7 Title](IMG_6835.JPEG)
+![MEGR 2156-7 Title](IMG_6836.JPEG)
+![MEGR 2156-7 Title](IMG_6837.JPEG)
+![MEGR 2156-7 Title](IMG_6838.JPEG)
+![MEGR 2156-7 Title](IMG_6839.JPEG)
 If you create a sketch, create a pdf and include it in the portfolio.
 Take many pictures of the different stages of the CAD model.
 Detail decision making along the way
 Detail how you determined the engineered allowances of the interactive parts
 ### 3D Print (30%)
 
-## Video the process of the 3D print.
+Video the process of the 3D print.
 
 What number machine did you use?
 Did you use a raft? If so, what were the settings?
