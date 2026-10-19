@@ -65,7 +65,8 @@ I also set it so there would be a flat surface on the bed.
 ##### Outline slicer settings and reasons for the settings.
 
 ##### Note the slice information on Prusa Slicer
-
+![MEGR 2156-7 Title](IMG_6850.JPEG)
+![MEGR 2156-7 Title](IMG_6871.jpeg)
 ### (10%) Lessons Learned
 I learned that with the use of 3d printing I can solve my stinginess when it comes to buying parts for my car online. I don't have to pay for anything exempt for filament and I can also reduce the shipping cost. I also have the opportunity to sell parts online so that other people don't have to pay so much for small plastic pieces.
 
