@@ -38,8 +38,12 @@ Detail decision making along the way
 Detail how you determined the engineered allowances of the interactive parts
 ### 3D Print (30%)
 
-Video the process of the 3D print.
+
 ## This is the link to my Youtube video of the Print https://youtu.be/U-LWloJ-YJg
+![MEGR 2156-7 Title](IMG_6874.JPEG)
+![MEGR 2156-7 Title](IMG_6875.JPEG)
+![MEGR 2156-7 Title](IMG_6876.JPEG)
+![MEGR 2156-7 Title](IMG_6877.JPEG)
 ##### What number machine did you use? 
 Prusa Core ONE
 ##### Did you use a raft? If so, what were the settings?
@@ -71,3 +75,4 @@ I also set it so there would be a flat surface on the bed.
 I learned that with the use of 3d printing I can solve my stinginess when it comes to buying parts for my car online. I don't have to pay for anything exempt for filament and I can also reduce the shipping cost. I also have the opportunity to sell parts online so that other people don't have to pay so much for small plastic pieces.
 
 ##### Actual time it took from start to finish and resources.
+3 hours
