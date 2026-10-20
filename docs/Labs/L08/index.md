@@ -1,10 +1,8 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # Lab 8 – Design and Print Something Useful
 ### Instructions
-Read Great Questions Lead to Great Design: A Guide to the Design-thinking Process
-Use what you have learned thus far to design and 3D print something useful and or functional. No artwork.
-Documentation and Grading:
-
+Read Great Questions Lead to Great Design:
+Asking good questions gives us a better understanding of our circumstances. When we have a problem, it is important we can ask all about that problem by asking follow up questions to understand the scope. Questions also clarify misunderstandings we have that will waste us time. questions create a better environment for collaboration as when you ask a question you admit you do not have all the answers. I view questions as a important part of the design process that comes way before I actually start making anything.
 ### Reading and Writing (5%)
 
 Read Great Questions Lead to Great Design: A Guide to the Design-thinking Process and write a paragraph on why asking smart questions matter.
