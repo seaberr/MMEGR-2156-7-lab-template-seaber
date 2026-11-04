@@ -1,32 +1,18 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # Lab 9 – Laser Cutter
-### Notes
-Note #1: To get credit, you must show your design + finished artifact to the professor at the beginning of lab.
-
-Note #2: To receive credit, your documentation must include clear headers (example below).
-
-Example Documentation Headers
-
-Design (pictures + paragraphs)
-
-Research (pictures + paragraphs)
-
-Manufacturing (pictures + paragraphs)
-
-Lessons Learned (pictures + paragraphs)
-
-### Instructions
-Design, laser cut, assemble, and document a parametric construction kit that accounts for laser cutter kerf.
-
-Your kit should include:
-
-At least 3 unique part types
-At least 8 total pieces
-At least one press-fit / slot-fit / tab-fit connection
-A clear demonstration that you measured kerf and used it to set your fit/clearances
 ### Documentation and Grading
+So for our design project we landed on creating a flower
 ### Design (40%)
-If you create a hand sketch, export as a PDF and include it in your portfolio.
+![MEGR 2156-7 Title](IMG_2127.JPEG)
+![MEGR 2156-7 Title](IMG_2128.JPEG)
+![MEGR 2156-7 Title](IMG_2129.JPEG)
+![MEGR 2156-7 Title](IMG_3245.JPEG)
+![MEGR 2156-7 Title](IMG_3246.JPEG)
+![MEGR 2156-7 Title](IMG_6990.JPEG)
+![MEGR 2156-7 Title](IMG_6992.JPEG)
+![MEGR 2156-7 Title](IMG_6993.JPEG)
+![MEGR 2156-7 Title](IMG_6995.JPEG)
+
 Show screenshots/photos of the CAD process (multiple stages).
 Explain design decisions (shape, constraints, why you chose certain joints/features).
 Explain how your design is parametric (what variables can change? material thickness? slot width? hole spacing?).
