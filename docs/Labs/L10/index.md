@@ -89,17 +89,17 @@ Show your final parts in class for verification.
 Note: Credit will not be given for parts that lack a meaningful or creative purpose. Your design must demonstrate applied understanding of an RC 2 sliding fit in a useful or innovative artifact.
 
 ### Lessons Learned (10%)
-Reflect on your process:
+#### Reflect on your process:
+The process was pretty easy
+#### What challenges arose in achieving the RC 2 fit?
+I had challenges with time, and I had to figure out how to get into the lab to do my print this weekend.
+#### Did surface roughness, printer calibration, or curing affect the fit?
 
-What challenges arose in achieving the RC 2 fit?
+#### How could you improve accuracy next time?
 
-Did surface roughness, printer calibration, or curing affect the fit?
+#### Include total time spent and any resources used.
 
-How could you improve accuracy next time?
-
-Include total time spent and any resources used.
-
-Documentation and Submission
+#### Documentation and Submission
 Your documentation must include headers and images for each section:
 
 Research and Planning
