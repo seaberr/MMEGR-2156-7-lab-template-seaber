@@ -3,11 +3,11 @@
 ### Documentation and Grading
 So for our design project we landed on creating a flower
 ### Design (40%)
-![MEGR 2156-7 Title](IMG_2127.JPEG)
-![MEGR 2156-7 Title](IMG_2128.JPEG)
-![MEGR 2156-7 Title](IMG_2129.JPEG)
-![MEGR 2156-7 Title](IMG_3245.JPEG)
-![MEGR 2156-7 Title](IMG_3246.JPEG)
+![MEGR 2156-7 Title](IMG_2127.jpeg)
+![MEGR 2156-7 Title](IMG_2128.jpeg)
+![MEGR 2156-7 Title](IMG_2129.jpeg)
+![MEGR 2156-7 Title](IMG_3245 (1).jpeg)
+![MEGR 2156-7 Title](IMG_3246 (1).jpeg)
 ![MEGR 2156-7 Title](IMG_6990.JPEG)
 ![MEGR 2156-7 Title](IMG_6992.JPEG)
 ![MEGR 2156-7 Title](IMG_6993.JPEG)
