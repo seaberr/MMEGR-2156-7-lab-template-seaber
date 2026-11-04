@@ -5,6 +5,25 @@ Research the ASME RC 2 sliding fit specification in the Machinery’s Handbook.
 
 #### Determine the appropriate tolerance range (clearance limits) for your chosen nominal size.
 Hole diameter
+![MEGR 2156-7 Title](IMG_7125.JPG)
+![MEGR 2156-7 Title](IMG_7125.JPG)
+![MEGR 2156-7 Title](IMG_7126.JPG)
+![MEGR 2156-7 Title](IMG_7127.JPG)
+![MEGR 2156-7 Title](IMG_7128.JPG)
+![MEGR 2156-7 Title](IMG_7129.JPG)
+![MEGR 2156-7 Title](IMG_7131.JPG)
+![MEGR 2156-7 Title](IMG_7132.JPG)
+![MEGR 2156-7 Title](IMG_7134.JPG)
+![MEGR 2156-7 Title](IMG_7135.JPG)
+![MEGR 2156-7 Title](IMG_7136.JPG)
+![MEGR 2156-7 Title](IMG_7137.JPG)
+![MEGR 2156-7 Title](IMG_7138.JPG)
+![MEGR 2156-7 Title](IMG_7139.JPG)
+![MEGR 2156-7 Title](IMG_7149.JPG)
+![MEGR 2156-7 Title](IMG_7150.JPEG)
+![MEGR 2156-7 Title](IMG_7151.JPEG)
+
+
 
 1.0000–1.0005 in
 
