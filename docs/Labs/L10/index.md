@@ -5,8 +5,7 @@ Research the ASME RC 2 sliding fit specification in the Machinery’s Handbook.
 
 #### Determine the appropriate tolerance range (clearance limits) for your chosen nominal size.
 Hole diameter
-![MEGR 2156-7 Title](Screenshot_3-11-2026_193813_claude.ai.jpeg)
-![MEGR 2156-7 Title](Screenshot_3-11-2026_193835_claude.ai.jpeg)
+
 ![MEGR 2156-7 Title](IMG_7125.JPG)
 ![MEGR 2156-7 Title](IMG_7125.JPG)
 ![MEGR 2156-7 Title](IMG_7126.JPG)
@@ -43,6 +42,9 @@ I will be creating a spiral fit where a pin slides in spiral.
 Research shrinking or expansion of the resin prints, use this to compensate for the fits.
 ### CAD Design (40%)
 Create a CAD model of two parts:
+In the topics this week we briefly discussed using ai to make a cad model and 3d print it. I took all of my criteria given and this includes the RC2 specs and entered it into Claude to make my design. Below is the Prompt I used and what I received back as a result. I chose to do this because many of the assignments I have done throughout this couse were just like this and I wanted to test doing something different.
+![MEGR 2156-7 Title](Screenshot_3-11-2026_193813_claude.ai.jpeg)
+![MEGR 2156-7 Title](Screenshot_3-11-2026_193835_claude.ai.jpeg)
 
 #### Part A: Hole or slot feature
 
