@@ -6,24 +6,6 @@ Research the ASME RC 2 sliding fit specification in the Machinery’s Handbook.
 #### Determine the appropriate tolerance range (clearance limits) for your chosen nominal size.
 Hole diameter
 
-![MEGR 2156-7 Title](IMG_7125.JPG)
-![MEGR 2156-7 Title](IMG_7125.JPG)
-![MEGR 2156-7 Title](IMG_7126.JPG)
-![MEGR 2156-7 Title](IMG_7127.JPG)
-![MEGR 2156-7 Title](IMG_7128.JPG)
-![MEGR 2156-7 Title](IMG_7129.JPG)
-![MEGR 2156-7 Title](IMG_7131.JPG)
-![MEGR 2156-7 Title](IMG_7132.JPG)
-![MEGR 2156-7 Title](IMG_7134.JPG)
-![MEGR 2156-7 Title](IMG_7135.JPG)
-![MEGR 2156-7 Title](IMG_7136.JPG)
-![MEGR 2156-7 Title](IMG_7137.JPG)
-![MEGR 2156-7 Title](IMG_7138.JPG)
-![MEGR 2156-7 Title](IMG_7139.JPG)
-![MEGR 2156-7 Title](IMG_7149.JPG)
-![MEGR 2156-7 Title](IMG_7150.JPEG)
-![MEGR 2156-7 Title](IMG_7151.JPEG)
-
 
 
 1.0000–1.0005 in
@@ -36,7 +18,7 @@ Diametral clearance
 
 0.0003–0.0012 in
 #### Create a hand sketch of both parts, showing which dimensions are controlled by the RC 2 fit.
-
+![MEGR 2156-7 Title](IMG_7131.JPG)
 #### Include a short paragraph describing where this type of fit would be used in real-world applications.
 I will be creating a spiral fit where a pin slides in spiral.
 Research shrinking or expansion of the resin prints, use this to compensate for the fits.
@@ -74,7 +56,12 @@ In the topics this week we briefly discussed using ai to make a cad model and 3d
 
 ### Preprocessing for 3D Printing (10%)
 #### Document the 3D printing setup in PreForm or your slicer of choice:
-
+![MEGR 2156-7 Title](IMG_7125.JPG)
+![MEGR 2156-7 Title](IMG_7125.JPG)
+![MEGR 2156-7 Title](IMG_7126.JPG)
+![MEGR 2156-7 Title](IMG_7127.JPG)
+![MEGR 2156-7 Title](IMG_7128.JPG)
+![MEGR 2156-7 Title](IMG_7129.JPG)
 #### Machine name.
 
 #### Build orientation and reasoning.
@@ -97,6 +84,17 @@ Comment on surface finish, accuracy, and any deformation.
 Record any dimensional deviations after curing or sanding.
 
 ### Fit Test (20%)
+
+![MEGR 2156-7 Title](IMG_7134.JPG)
+![MEGR 2156-7 Title](IMG_7135.JPG)
+![MEGR 2156-7 Title](IMG_7136.JPG)
+![MEGR 2156-7 Title](IMG_7137.JPG)
+![MEGR 2156-7 Title](IMG_7138.JPG)
+![MEGR 2156-7 Title](IMG_7139.JPG)
+![MEGR 2156-7 Title](IMG_7149.JPG)
+![MEGR 2156-7 Title](IMG_7150.JPEG)
+![MEGR 2156-7 Title](IMG_7151.JPEG)
+
 Use digital calipers to measure:
 
 Hole/slot diameter or width
