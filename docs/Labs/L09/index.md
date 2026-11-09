@@ -35,8 +35,6 @@ How did you set your origin and ensure correct alignment?
 Show and explain your layout/nesting choices (why parts were arranged that way).
 Did you cut test coupons first (kerf test, fit test)? Include pics and results.
 Comment on edge quality (burn marks, soot, charring) and what you did to improve it.
-### Lessons Learned (30%)
+### Lessons Learned 
 Detailed lessons learned throughout the process (the more detail, the better).
-Include mistakes, troubleshooting, and what you changed.
-Include actual time from start to finish (design → test cuts → final cut → assembly).
-List resources used (material size/type, number of sheets, any consumables, tools for assembly/cleanup).
+SO, when we started, we did start our assignment very late so when it came down to the wire, I had to set aside my other classes to focus on this project. We of course had some mistakes within preprocessing made our laser cut products curve get messed up. For example, we had a problem where the outside cut before the inside messing up the tolerances. Another example of how we messed up was we deleted to many of our lines by accident and didn't fully cut out one of our shapes.
