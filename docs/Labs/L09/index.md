@@ -40,8 +40,8 @@ I used the
 | Additional Fasteners | None |
 | Adhesives | None |
 What were your laser settings?
-Speed
-Power
+Speed 20%
+Power 50%
 Frequency/PPI (if applicable)
 Number of passes
 Did you focus the laser? How did you confirm focus?
