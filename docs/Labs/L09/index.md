@@ -16,11 +16,16 @@ Sebastian Kohler
 ![MEGR 2156-7 Title](IMG_6992.JPEG)
 ![MEGR 2156-7 Title](IMG_6993.JPEG)
 ![MEGR 2156-7 Title](IMG_6995.JPEG)
-Explain how your design is parametric (what variables can change? material thickness? slot width? hole spacing?).
-Clearly explain how you determined the engineered allowances for the interactive parts:
-Material thickness assumption
-Kerf measurement method
-Final slot/tab dimensions you chose and why
+#### Explain how your design is parametric (what variables can change? material thickness? slot width? hole spacing?).
+
+#### Clearly explain how you determined the engineered allowances for the interactive parts:
+
+#### Material thickness assumption
+
+#### Kerf measurement method
+
+#### Final slot/tab dimensions you chose and why
+
 ## Manufacturing (30%)
 
 #### Video
@@ -48,14 +53,19 @@ I used the
 | Engraving Power | 100% |
 | Cutting Date | October 27, 2026 |
 | Cutting Time | 12:34 PM |
-Did you focus the laser? How did you confirm focus?
-Did you use air assist / exhaust properly? Any observations?
-How did you set your origin and ensure correct alignment?
-Show and explain your layout/nesting choices (why parts were arranged that way).
-Did you cut test coupons first (kerf test, fit test)? Include pics and results.
-Comment on edge quality (burn marks, soot, charring) and what you did to improve it.
+#### Did you focus the laser? How did you confirm focus?
+
+#### Did you use air assist / exhaust properly? Any observations?
+
+#### How did you set your origin and ensure correct alignment?
+
+#### Show and explain your layout/nesting choices (why parts were arranged that way).
+
+#### Did you cut test coupons first (kerf test, fit test)? Include pics and results.
+
+#### Comment on edge quality (burn marks, soot, charring) and what you did to improve it.
 ## Lessons Learned 
-Detailed lessons learned throughout the process (the more detail, the better).
+
 SO, when we started, we did start our assignment very late so when it came down to the wire, I had to set aside my other classes to focus on this project. We of course had some mistakes within preprocessing made our laser cut products curve get messed up. For example, we had a problem where the outside cut before the inside messing up the tolerances. Another example of how we messed up was we deleted to many of our lines by accident and didn't fully cut out one of our shapes.
 ### Time spent
 ## Project Fabrication Time Breakdown
