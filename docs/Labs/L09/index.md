@@ -28,7 +28,17 @@ https://youtube.com/shorts/Hh_RZBLUwM0?feature=share
 Video the laser cutting process (at least one continuous clip).
 What laser cutter did you use (machine number/name)?
 I used the
-What material did you cut (type + thickness)?
+| Resource | Description |
+|---|---|
+| Material | Plywood |
+| Sheet Size | 12 × 12 in |
+| Average Material Thickness | 2.690 mm |
+| Laser Cutter | Epilog CO₂ Laser |
+| Measurement Tool | Digital Calipers |
+| CAD Software | SolidWorks |
+| Assembly Method | Press-fit tabs and slots |
+| Additional Fasteners | None |
+| Adhesives | None |
 What were your laser settings?
 Speed
 Power
