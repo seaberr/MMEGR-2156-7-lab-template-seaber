@@ -18,6 +18,8 @@ Material thickness assumption
 Kerf measurement method
 Final slot/tab dimensions you chose and why
 ### Manufacturing (30%)
+## Video
+https://youtube.com/shorts/Hh_RZBLUwM0?feature=share
 Video the laser cutting process (at least one continuous clip).
 What laser cutter did you use (machine number/name)?
 What material did you cut (type + thickness)?
