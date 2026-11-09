@@ -29,21 +29,25 @@ Video the laser cutting process (at least one continuous clip).
 What laser cutter did you use (machine number/name)?
 I used the
 | Resource | Description |
+| Resource / Setting | Description / Value |
 |---|---|
 | Material | Plywood |
 | Sheet Size | 12 × 12 in |
-| Average Material Thickness | 2.690 mm |
+| Material Preset | 3 mm |
+| Measured Material Thickness | 2.690 mm |
 | Laser Cutter | Epilog CO₂ Laser |
 | Measurement Tool | Digital Calipers |
 | CAD Software | SolidWorks |
 | Assembly Method | Press-fit tabs and slots |
 | Additional Fasteners | None |
 | Adhesives | None |
-What were your laser settings?
-Speed 20%
-Power 50%
-Frequency/PPI (if applicable)
-Number of passes
+| Vector Cutting Speed | 20% |
+| Vector Cutting Power | 100% |
+| Vector Frequency Setting | 20% |
+| Engraving Speed | 50% |
+| Engraving Power | 100% |
+| Cutting Date | October 27, 2026 |
+| Cutting Time | 12:34 PM |
 Did you focus the laser? How did you confirm focus?
 Did you use air assist / exhaust properly? Any observations?
 How did you set your origin and ensure correct alignment?
