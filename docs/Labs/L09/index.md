@@ -1,7 +1,7 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # Lab 9 – Laser Cutter
 ### Documentation and Grading
-So for our design project we landed on creating a flower
+So, for our design project we landed on creating a flower. We chose this because the reality was, we did not want to deal with ultra complex dimensional issues caused by creating an enclosed shape like a box. For a first project I think something like the flower we made was a great solution for not having connections that rely on other connections.
 ### Design (40%)
 ![MEGR 2156-7 Title](IMG_2127.jpeg)
 ![MEGR 2156-7 Title](IMG_2128.jpeg)
@@ -12,9 +12,6 @@ So for our design project we landed on creating a flower
 ![MEGR 2156-7 Title](IMG_6992.JPEG)
 ![MEGR 2156-7 Title](IMG_6993.JPEG)
 ![MEGR 2156-7 Title](IMG_6995.JPEG)
-
-Show screenshots/photos of the CAD process (multiple stages).
-Explain design decisions (shape, constraints, why you chose certain joints/features).
 Explain how your design is parametric (what variables can change? material thickness? slot width? hole spacing?).
 Clearly explain how you determined the engineered allowances for the interactive parts:
 Material thickness assumption
