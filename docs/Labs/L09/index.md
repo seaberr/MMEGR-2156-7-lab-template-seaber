@@ -44,3 +44,14 @@ Comment on edge quality (burn marks, soot, charring) and what you did to improve
 Detailed lessons learned throughout the process (the more detail, the better).
 SO, when we started, we did start our assignment very late so when it came down to the wire, I had to set aside my other classes to focus on this project. We of course had some mistakes within preprocessing made our laser cut products curve get messed up. For example, we had a problem where the outside cut before the inside messing up the tolerances. Another example of how we messed up was we deleted to many of our lines by accident and didn't fully cut out one of our shapes.
 ### Time spent
+## Project Fabrication Time Breakdown
+
+| Task | Time Spent |
+| :--- | :--- |
+| Material Measurement | 15 minutes |
+| Kerf and Fit Testing | 30 minutes |
+| SolidWorks Design | 1 hour 15 minutes |
+| Laser Cutting | 45 minutes |
+| Troubleshooting and Recutting | 45 minutes |
+| Final Assembly | 30 minutes |
+| **Total Time Spent** | **4 hours** |
