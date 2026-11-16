@@ -25,6 +25,9 @@ How stiffness and geometry affect flexibility and assembly force
 ![MEGR 2156-7 Title](IMG_7271.JPEG)
 ![MEGR 2156-7 Title](IMG_7273.JPEG)
 ![MEGR 2156-7 Title](IMG_7274.JPEG)
+## Preprocessing and 3D Printing
 ![MEGR 2156-7 Title](IMG_7275.JPEG)
 ![MEGR 2156-7 Title](IMG_7276.JPEG)
-
+## Post Processing and curing
+## Validation
+## Lessons Learned
