@@ -1,12 +1,16 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # Lab 11 – Snap Fit Design for SLA Printing (Form 4)
-### Assignment: Snap Fit Design for SLA Printing (Form 4)
-Summary of the key design principles for your selected snap-fit type (cantilever, annular, torsional, or hybrid).
-
-Annotated sketches or diagrams
+## Snap Fit Research
+### Annotated sketches or diagrams
 ![MEGR 2156-7 Title](myannotation.png)
- mechanical principles
+ ### mechanical principles
+ Deflection and permissible strain relationships
+
+Undercut and mating force relationships
+
+How stiffness and geometry affect flexibility and assembly force
   SLA resin properties
+## Snap Fit Cad Design
 ![MEGR 2156-7 Title](IMG_7253.JPEG)
 ![MEGR 2156-7 Title](IMG_7254.JPEG)
 ![MEGR 2156-7 Title](IMG_7256.JPEG)
