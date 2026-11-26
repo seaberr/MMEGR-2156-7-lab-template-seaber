@@ -10,7 +10,7 @@
 ![MEGR 2156-7 Title](IMG_7389.JPEG)
 ![MEGR 2156-7 Title](IMG_7392.JPEG)
 ![MEGR 2156-7 Title](IMG_7394.JPEG)
-![MEGR 2156-7 Title](Screenshot2026-11-24120657.png)
+![MEGR 2156-7 Title](Screenshot%202026-11-24%20120657.png)
 ## Objectives
 
 
