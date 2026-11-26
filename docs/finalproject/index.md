@@ -1,6 +1,16 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # Final Project 
-
+![MEGR 2156-7 Title](IMG_7369.JPEG)
+![MEGR 2156-7 Title](IMG_7371.JPEG)
+![MEGR 2156-7 Title](IMG_7373.JPEG)
+![MEGR 2156-7 Title](IMG_7374.JPEG)
+![MEGR 2156-7 Title](IMG_7381.JPEG)
+![MEGR 2156-7 Title](IMG_7387.JPEG)
+![MEGR 2156-7 Title](IMG_7388.JPEG)
+![MEGR 2156-7 Title](IMG_7389.JPEG)
+![MEGR 2156-7 Title](IMG_7392.JPEG)
+![MEGR 2156-7 Title](IMG_7394.JPEG)
+![MEGR 2156-7 Title](Screenshot2026-11-24120657.png)
 ## Objectives
 
 
