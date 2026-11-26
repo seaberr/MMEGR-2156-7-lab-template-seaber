@@ -133,10 +133,6 @@ Post-Processing
 
 Fit Test
 
-Lessons Learned
+## Lessons Learned
 
-To receive full credit:
-
-You must show your printed parts to the professor at the beginning of lab.
-
-Documentation must be organized, include labeled figures of the design and manufacturing process, and show clear understanding of fit concepts.
+I spent 7 hours working on this assignment. I came up with the idea after seeing what Dr Fagan showed us about using ai. I tested the limits however I believe using the ai to use RC2 tolerances Neutered my propts power of making a perfect part. The problem was the part did not fit to gether perfectly but no one elses did either
