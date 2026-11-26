@@ -13,9 +13,9 @@
 ![MEGR 2156-7 Title](Screenshot%202026-11-24%20120657.png)
 ![MEGR 2156-7 Title](Screenshot%202026-11-24%20120652.png)
 ![MEGR 2156-7 Title](Screenshot%202026-11-24%20120945.png)
-![MEGR 2156-7 Title](Screenshot%202026-11-24%20121035.png)
-![MEGR 2156-7 Title](Screenshot%202026-11-24%20121030.png)
-![MEGR 2156-7 Title](Screenshot%202026-11-24%20121206.png)
+![MEGR 2156-7 Title](Screenshot%202026-11-24%20121031.png)
+![MEGR 2156-7 Title](Screenshot%202026-11-24%20121130.png)
+![MEGR 2156-7 Title](Screenshot%202026-11-24%20121204.png)
 ![MEGR 2156-7 Title](Screenshot%202026-11-24%cup.png)
 ## Objectives
 
