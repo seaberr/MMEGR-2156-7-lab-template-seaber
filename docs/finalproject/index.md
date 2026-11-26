@@ -89,23 +89,3 @@ How both FDM and SLA technologies were utilized
 
 ## Final Project Deliverables
 Your submission must include the following:
-
-✅ A clearly defined problem that can be solved using 3D printing
-
-✅ Use of both FDM and SLA (Form 4) printing technologies
-
-✅ SLA print size limited to about one-quarter of the Form 4 build plate
-
-✅ A refined 3D model of your prototype
-
-✅ A printed prototype
-
-✅ Research on SLA print shrinkage documented in your portfolio
-
-✅ Modifications made based on testing and feedback
-
-✅ A final 3D model reflecting design improvements
-
-✅ Documentation with photos, design notes, and assembly/use instructions
-
-✅ A final video presentation (1–2 minutes) highlighting the problem, solution, and printing process
