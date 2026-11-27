@@ -47,22 +47,21 @@ Research shrinkage behavior and dimensional accuracy in SLA resin prints, and do
 
 #### Identify and describe in detail several problems (3 minimum) you find interesting or worth solving. Use clear headers and full sentences in your documentation.
 ### Problem Selection 
-##### Select one problem that can be addressed using manufacturing processes used in class. Explain how and why you want to solve this problem.
+#### Select one problem that can be addressed using manufacturing processes used in class. Explain how and why you want to solve this problem.
 
 ### Concept Development
 
-#### Generate a sketch or rough model of your overall design.
-#### Create a 3D model of your prototype based on feedback from peers.
-#### Ensure your design is feasible for manufacturing (consider clearances, tolerances, and material properties).
+ Generate a sketch or rough model of your overall design.
+ Create a 3D model of your prototype based on feedback from peers.
+ Ensure your design is feasible for manufacturing (consider clearances, tolerances, and material properties).
 
 ### Testing Critical Features
-
 #### Print or cut test pieces of challenging features (e.g., snap fits, press fits, or interlocking joints) to verify tolerances.
-Video Presentation
+### Video Presentation
 Create a 30-second video explaining the selected problem in detail.
 ### Documentation
 Record your full process in your portfolio, including notes, research, images, and early models.
-Presentation
+### Presentation
 Present your problem and proposed solution to the class next week for feedback.
 
 # Part 2 Prototype Refinement & Final Presentation
