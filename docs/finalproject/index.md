@@ -1,23 +1,6 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 ## Final Project 
-![MEGR 2156-7 Title](IMG_7369.JPEG)
-![MEGR 2156-7 Title](IMG_7371.JPEG)
-![MEGR 2156-7 Title](IMG_7373.JPEG)
-![MEGR 2156-7 Title](IMG_7374.JPEG)
-![MEGR 2156-7 Title](IMG_7381.JPEG)
-![MEGR 2156-7 Title](IMG_7387.JPEG)
-![MEGR 2156-7 Title](IMG_7388.JPEG)
-![MEGR 2156-7 Title](IMG_7389.JPEG)
-![MEGR 2156-7 Title](IMG_7392.JPEG)
-![MEGR 2156-7 Title](IMG_7394.JPEG)
-![MEGR 2156-7 Title](WIN_20261123_19_18_08_Pro.jpg)
-![MEGR 2156-7 Title](WIN_20261123_19_18_10_Pro.jpg)
-![MEGR 2156-7 Title](WIN_20261123_19_21_48_Pro.jpg)
-![MEGR 2156-7 Title](WIN_20261123_19_22_37_Pro.jpg)
-![MEGR 2156-7 Title](WIN_20261123_19_22_41_Pro.jpg)
-![MEGR 2156-7 Title](WIN_20261123_19_23_20_Pro.jpg)
-![MEGR 2156-7 Title](WIN_20261123_19_23_22_Pro.jpg)
-![MEGR 2156-7 Title](WIN_20261123_19_25_21_Pro.jpg)
+
 
 
 ## Objectives
@@ -59,7 +42,18 @@ Research shrinkage behavior and dimensional accuracy in SLA resin prints, and do
 ## Video Presentation
 Create a 30-second video explaining the selected problem in detail.
 ## Documentation
-Record your full process in your portfolio, including notes, research, images, and early models.
+### Record your full process in your portfolio, including notes, research, images, and early models.
+![MEGR 2156-7 Title](IMG_7369.JPEG)
+![MEGR 2156-7 Title](IMG_7371.JPEG)
+![MEGR 2156-7 Title](IMG_7373.JPEG)
+![MEGR 2156-7 Title](IMG_7374.JPEG)
+![MEGR 2156-7 Title](IMG_7381.JPEG)
+![MEGR 2156-7 Title](IMG_7387.JPEG)
+![MEGR 2156-7 Title](IMG_7388.JPEG)
+![MEGR 2156-7 Title](IMG_7389.JPEG)
+![MEGR 2156-7 Title](IMG_7392.JPEG)
+![MEGR 2156-7 Title](IMG_7394.JPEG)
+
 ## Presentation
 Present your problem and proposed solution to the class next week for feedback.
 
@@ -78,6 +72,14 @@ Re-model and re-print components as needed.
 ![MEGR 2156-7 Title](IMG_7480.JPEG)
 ![MEGR 2156-7 Title](IMG_7479%20(1).JPEG)
 ![MEGR 2156-7 Title](IMG_7472%20(2).JPEG)
+![MEGR 2156-7 Title](WIN_20261123_19_18_08_Pro.jpg)
+![MEGR 2156-7 Title](WIN_20261123_19_18_10_Pro.jpg)
+![MEGR 2156-7 Title](WIN_20261123_19_21_48_Pro.jpg)
+![MEGR 2156-7 Title](WIN_20261123_19_22_37_Pro.jpg)
+![MEGR 2156-7 Title](WIN_20261123_19_22_41_Pro.jpg)
+![MEGR 2156-7 Title](WIN_20261123_19_23_20_Pro.jpg)
+![MEGR 2156-7 Title](WIN_20261123_19_23_22_Pro.jpg)
+![MEGR 2156-7 Title](WIN_20261123_19_25_21_Pro.jpg)
 ### Presentation Preparation
 ![MEGR 2156-7 Title](TheCup.jpg)
 ## Parametric Design
@@ -93,6 +95,7 @@ Re-model and re-print components as needed.
 Include at least one parametric feature in your 3D model (e.g., variable dimensions controlled by parameters).
 #### 3d Print video
 https://youtu.be/wpEYsXbS1Ls
+
 ## Final Video
 
 Produce a 1–2 minute video summarizing your work.
