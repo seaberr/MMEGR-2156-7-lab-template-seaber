@@ -90,8 +90,8 @@ Re-model and re-print components as needed.
 ![MEGR 2156-7 Title](Screenshot%202026-11-24%20121130.png)
 ![MEGR 2156-7 Title](Screenshot%202026-11-24%20121204.png)
 ![MEGR 2156-7 Title](Screenshot%202026-11-24%cup.png)
-![MEGR 2156-7 Title](Screenshot%202026-11-24%20121130.png)
 ![MEGR 2156-7 Title](Screenshot%202026-11-24%20121204.png)
+![MEGR 2156-7 Title](Screenshot%202026-11-24%20121130.png)
 Include at least one parametric feature in your 3D model (e.g., variable dimensions controlled by parameters).
 Final Video
 Produce a 1–2 minute video summarizing your work.
