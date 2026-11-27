@@ -27,15 +27,14 @@
 
 
 # Part 1 Define the problem and rough prototype
-Goal: I am a clumsy fella. I am always knocking over my drinks on my desk. I still like enjoying a beverage while I work. The reality is I don't know It I can afford to waste my money on buying an expensive cup that doesn't meet my specifications. My goal is to create a mug that had a screw on lid for safety and is made out of two different materials.
 
 ## Objective: Choose a problem that can be addressed with 3D printing and develop an initial design concept.
-
+Goal: I am a clumsy fella. I am always knocking over my drinks on my desk. I still like enjoying a beverage while I work. The reality is I don't know It I can afford to waste my money on buying an expensive cup that doesn't meet my specifications. My goal is to create a mug that had a screw on lid for safety and is made out of two different materials.
 
 ## Spiral Design Process:
 
 
-### SLA Shrinkage:
+## SLA Shrinkage:
 Research shrinkage behavior and dimensional accuracy in SLA resin prints, and document how this may affect your prototype’s design and assembly. Include key findings in your portfolio (e.g., typical shrinkage percentages, strategies for compensation, material differences).
 ![MEGR 2156-7 Title](IMG_7509.JPEG)
 ![MEGR 2156-7 Title](IMG_7513.JPEG)
@@ -43,45 +42,45 @@ Research shrinkage behavior and dimensional accuracy in SLA resin prints, and do
 ![MEGR 2156-7 Title](IMG_7521.JPEG)
 ![MEGR 2156-7 Title](IMG_7519.JPEG)
 
-### Problem Definition
+## Problem Definition
 
 #### Identify and describe in detail several problems (3 minimum) you find interesting or worth solving. Use clear headers and full sentences in your documentation.
-### Problem Selection 
+## Problem Selection 
 #### Select one problem that can be addressed using manufacturing processes used in class. Explain how and why you want to solve this problem.
 
-### Concept Development
+## Concept Development
 
  Generate a sketch or rough model of your overall design.
  Create a 3D model of your prototype based on feedback from peers.
  Ensure your design is feasible for manufacturing (consider clearances, tolerances, and material properties).
 
-### Testing Critical Features
+## Testing Critical Features
 #### Print or cut test pieces of challenging features (e.g., snap fits, press fits, or interlocking joints) to verify tolerances.
-### Video Presentation
+## Video Presentation
 Create a 30-second video explaining the selected problem in detail.
-### Documentation
+## Documentation
 Record your full process in your portfolio, including notes, research, images, and early models.
-### Presentation
+## Presentation
 Present your problem and proposed solution to the class next week for feedback.
 
 # Part 2 Prototype Refinement & Final Presentation
 
 ## Goal: Finalize and manufacture your prototype.
-### Worksheets
+## Worksheets
 Include images of peer feedback
 Write Individual Reflections on the feedback
-### Refinement
+## Refinement
 Address issues or improvements based on feedback and testing.
 Re-model and re-print components as needed.
-### Documentation
+## Documentation
 ![MEGR 2156-7 Title](IMG_7482%20(1).JPEG)
 ![MEGR 2156-7 Title](IMG_7481%20(1).JPEG)
 ![MEGR 2156-7 Title](IMG_7480.JPEG)
 ![MEGR 2156-7 Title](IMG_7479%20(1).JPEG)
 ![MEGR 2156-7 Title](IMG_7472%20(2).JPEG)
-#### Presentation Preparation
+### Presentation Preparation
 ![MEGR 2156-7 Title](TheCup.jpg)
-### Parametric Design
+## Parametric Design
 ![MEGR 2156-7 Title](Screenshot%202026-11-24%20120657.png)
 ![MEGR 2156-7 Title](Screenshot%202026-11-24%20120652.png)
 ![MEGR 2156-7 Title](Screenshot%202026-11-24%20120945.png)
@@ -94,7 +93,7 @@ Re-model and re-print components as needed.
 Include at least one parametric feature in your 3D model (e.g., variable dimensions controlled by parameters).
 #### 3d Print video
 https://youtu.be/wpEYsXbS1Ls
-### Final Video
+## Final Video
 
 Produce a 1–2 minute video summarizing your work.
 ## Include:
