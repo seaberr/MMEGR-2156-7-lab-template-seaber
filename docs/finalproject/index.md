@@ -27,16 +27,7 @@
 ![MEGR 2156-7 Title](WIN_20261123_19_23_20_Pro.jpg)
 ![MEGR 2156-7 Title](WIN_20261123_19_23_22_Pro.jpg)
 ![MEGR 2156-7 Title](WIN_20261123_19_25_21_Pro.jpg)
-![MEGR 2156-7 Title](IMG_7509.JPEG)
-![MEGR 2156-7 Title](IMG_7513.JPEG)
-![MEGR 2156-7 Title](IMG_7522.JPEG)
-![MEGR 2156-7 Title](IMG_7521.JPEG)
-![MEGR 2156-7 Title](IMG_7519.JPEG)
-![MEGR 2156-7 Title](IMG_7482%20(1).JPEG)
-![MEGR 2156-7 Title](IMG_7481%20(1).JPEG)
-![MEGR 2156-7 Title](IMG_7480.JPEG)
-![MEGR 2156-7 Title](IMG_7479%20(1).JPEG)
-![MEGR 2156-7 Title](IMG_7472%20(2).JPEG)
+
 
 ## Objectives
 
@@ -61,6 +52,11 @@ Investigate how the Fused Deposition Modeling (FDM) process inherently produces 
 Research shrinkage behavior and dimensional accuracy in SLA resin prints, and document how this may affect your prototype’s design and assembly. Include key findings in your portfolio (e.g., typical shrinkage percentages, strategies for compensation, material differences).
 Laser Cut kerf:
 Investigate methods for compensating for laser cutting kerf and document how these strategies influence your prototype’s design, tolerances, and assembly. Consider how kerf impacts fit, joint performance, and overall dimensional accuracy, and how design choices can account for these effects.
+![MEGR 2156-7 Title](IMG_7509.JPEG)
+![MEGR 2156-7 Title](IMG_7513.JPEG)
+![MEGR 2156-7 Title](IMG_7522.JPEG)
+![MEGR 2156-7 Title](IMG_7521.JPEG)
+![MEGR 2156-7 Title](IMG_7519.JPEG)
 
 ### Problem Definition
 Identify and describe in detail several problems (3 minimum) you find interesting or worth solving.
@@ -94,7 +90,12 @@ Refinement
 Address issues or improvements based on feedback and testing.
 Re-model and re-print components as needed.
 ### Documentation
-Include photos, descriptions, and assembly/use instructions for your final prototype.
+![MEGR 2156-7 Title](IMG_7482%20(1).JPEG)
+![MEGR 2156-7 Title](IMG_7481%20(1).JPEG)
+![MEGR 2156-7 Title](IMG_7480.JPEG)
+![MEGR 2156-7 Title](IMG_7479%20(1).JPEG)
+![MEGR 2156-7 Title](IMG_7472%20(2).JPEG)
+![MEGR 2156-7 Title](TheCup.jpg)
 Presentation Preparation
 Create a one-slide PowerPoint or Google Slide summarizing your project.
 Practice your 1-minute presentation (no Q&A due to time limits).
