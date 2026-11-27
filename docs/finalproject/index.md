@@ -24,7 +24,7 @@
 
 
 ## Part 1 Define the problem and rough prototype
-Goal: Select a real-world problem that you, a friend, or a family member personally experience and refine your prototype design to address it. The goal of this week is to identify a meaningful challenge that can be solved through manufacturing and to develop the first iteration of your prototype using research, modeling, and feedback.
+Goal: I am a clumsy fella. I am always knocking over my drinks on my desk. I still like enjoying a beverage while I work. The reality is I don't know It I can afford to waste my money on buying an expensive cup that doesn't meet my specifications. My goal is to create a mug that had a screw on lid for safety and is made out of two different materials.
 
 ### Objective: Choose a problem that can be addressed with 3D printing and develop an initial design concept.
 
